@@ -1,20 +1,12 @@
-# FAQ
-```
-When is davecon?
-Davecon is Now
+# Contact
 
-How do I find davecon?
-Davecon finds you
+[discord](https://discord.gg/BdCQY2533X)
 
-Is Davecon canceled?
-Hell no
+[mastodon](https://mastodon.social/@FancyBoi)
 
-Who is Dave?
-You are, Dave
+[twitter](https://twitter.com/iamdavecon)
 
-Why is davecon?
-Whoa
-```
+iamdavecon@gmail.com
 
 # Release Notes
 
@@ -22,23 +14,28 @@ Whoa
 
 [1.0](https://docs.google.com/document/d/10pknMyp7eMQa5K1S5WkilPujUupOhHGwtNkq9URTMqg/edit#heading=h.uh59ohgz2sih)
 
-# Contact
 
-https://twitter.com/iamdavecon
+[2.1](https://docs.google.com/document/d/19L7Xp_Kvz2vSCQtCk9RlQ3hHlzpowm8FXnbNuoqx-NI/edit)
 
-iamdavecon@gmail.com
+# Code of conduct
 
-# Playlist
+Don't be an asshole
 
-[Kids in the Hall: Daves I Know](https://www.youtube.com/watch?v=VVzDIE0mr6A)
-Listen to this a dozen times a dave
+# FAQ
+```
+Q:  When is DaveCon?
+A:  DaveCon is Now
 
-[Dual Core - All the Things](https://www.youtube.com/watch?v=FoUWHfh733Y)
-A canonical DEF CON anthem
+Q:  How do I find DaveCon?
+A:  DaveCon finds you
 
-[Drake - Hotline Bling](https://www.youtube.com/watch?v=uxpDa-c-4Mc)
-Meh.  Drake sounds enough like Dave
+Q:  Is Davecon canceled?
+A:  Hell no
 
-[Daves and Davez - Post Party Depression](https://www.youtube.com/watch?v=RuWkFTlsWvo)
-Always plays at closing ceremonies
+Q:  Who is Dave?
+A:  You are, Dave
+
+Q:  Why is davecon?
+A:  Whoa
+```
 
