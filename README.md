@@ -27,19 +27,27 @@ Don't be an asshole
 
 # FAQ
 ```
+
+Q:  Who is Dave?
+A:  You are, Dave.  It has been you, the whole time.
+Ooooh...
+
+Q:  What is DaveCon?
+A:  Well, you're looking at it, right now, so you tell me
+
+Q:  Where is DaveCon?
+A:  IT'S RIGHT BEHIND YOU!
+
 Q:  When is DaveCon?
 A:  DaveCon is Now
+
+Q:  Why is DaveCon?
+A:  Whoa...
 
 Q:  How do I find DaveCon?
 A:  DaveCon finds you
 
-Q:  Is Davecon canceled?
+Q:  Is DaveCon canceled?
 A:  Hell no
-
-Q:  Who is Dave?
-A:  You are, Dave
-
-Q:  Why is davecon?
-A:  Whoa
 ```
 
