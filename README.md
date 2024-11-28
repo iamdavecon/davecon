@@ -2,9 +2,7 @@
 
 [discord](https://discord.gg/BdCQY2533X)
 
-[mastodon](https://mastodon.social/@FancyBoi)
-
-[twitter](https://twitter.com/iamdavecon)
+[mastodon](https://defcon.social/@iamdavecon)
 
 iamdavecon@gmail.com
 
