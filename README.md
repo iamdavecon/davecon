@@ -22,6 +22,8 @@ iamdavecon@gmail.com
 
 [Planning](https://photos.app.goo.gl/FAXadDnbp8iDVVKw7)
 
+[t-shirt](https://www.customink.com/designs/davecon/apd0-00cw-dw0j/hotlink?pc=HL-191722&utm_content=viewbutton&oe=48254601-b5400&utm_source=Hotlink&utm_medium=email&utm_campaign=Hotlink%202%20Variation%20C%20%28XRBaF3%29&_kx=1wBxeqnCqXpNGinsWlnoIdyXBbABsIecjvSD8uSQAhg.SKGNUp)
+
 # Code of conduct
 
 Don't be an asshole
