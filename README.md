@@ -1,9 +1,6 @@
-[DaveCon Choose your own Daventure](https://iamdavecon.github.io/IamDaveCon.html)
-
-
-# Contact
-
-[discord aka Davecord](https://discord.gg/BdCQY2533X)
+- [discord aka Davecord](https://discord.gg/BdCQY2533X)
+- [DaveCon Choose your own Daventure](https://iamdavecon.github.io/IamDaveCon.html)
+- [DaveTracker](https://dave-tracker.onrender.com/)
 
 # Release Notes
 
