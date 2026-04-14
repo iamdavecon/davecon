@@ -1,8 +1,12 @@
+# /home
+
 - [discord aka Davecord](https://discord.gg/BdCQY2533X)
+- [Dave video playlist aka Daveo](https://youtube.com/playlist?list=PL_pqyAOOFqee3YBfCnd7QivPnsgHw53cq&si=p67JWi3JXI8xClyN)
 - [DaveCon Choose your own Daventure](https://iamdavecon.github.io/IamDaveCon.html)
 - [DaveTracker](https://dave-tracker.onrender.com/)
 
-# Release Notes
+
+## Release Notes
 
 - [4.2](https://docs.google.com/document/d/1AzK0nzqCdaiZECCq4kKoY3V3NjuLak1vkBxOy_BbJ88)
     - [Photos](https://photos.google.com/album/AF1QipNXF4XlMEriFp8JZjoelrdq0BK1FxjSZw8ws9ZB)
@@ -13,27 +17,23 @@
 - [index](https://docs.google.com/spreadsheets/d/15o3z7wlktAaBD_ks78MG4lJwL-hXyvGHKvHQhCpbPlI)
 
 
-# Friends
+## Code of conduct
 
+**Don't be an asshole**
+
+
+# /groups
+
+- 🍖[ToxicBBQ](https://toxicbbq.org/)
 - 🌶️[PepperCon](http://discord.gg/URRBHAH)
 - ⚙️[Hardware Hacking Village](https://dchhv.org/)
 - 🎖️[VETCON](https://vetconactual.com/)
 - 🎮[Game Hacking Village](http://gamehacking.gg/)
 - 🍻[CoolerCon](https://defcon.social/@DCCoolerCon)
-- 🧀CheeseCon
+- 🙅[Hacker Jeopardy](https://x.com/HackerJeopardy)
 
 
-# /etc
-
-- [Planning](https://docs.google.com/document/d/1xD2UYkxgxq0pVlsspBh7p6MTt-f27si2HRmzDTAMbco)
-- [t-shirt](https://www.customink.com/designs/davecon/apd0-00cw-dw0j/hotlink?pc=HL-191722&utm_content=viewbutton&oe=48254601-b5400&utm_source=Hotlink&utm_medium=email&utm_campaign=Hotlink%202%20Variation%20C%20%28XRBaF3%29&_kx=1wBxeqnCqXpNGinsWlnoIdyXBbABsIecjvSD8uSQAhg.SKGNUp)
-
-
-# Code of conduct
-
-**Don't be an asshole**
-
-# FAQ
+# /FAQ
 ```
 
 Q:  Who is Dave?
@@ -58,4 +58,11 @@ A:  Whoa...
 Q:  Is DaveCon canceled?
 A:  Hell no
 ```
+
+
+# /etc
+
+- [Planning](https://docs.google.com/document/d/1xD2UYkxgxq0pVlsspBh7p6MTt-f27si2HRmzDTAMbco)
+- [t-shirt](https://www.customink.com/designs/davecon/apd0-00cw-dw0j/hotlink?pc=HL-191722&utm_content=viewbutton&oe=48254601-b5400&utm_source=Hotlink&utm_medium=email&utm_campaign=Hotlink%202%20Variation%20C%20%28XRBaF3%29&_kx=1wBxeqnCqXpNGinsWlnoIdyXBbABsIecjvSD8uSQAhg.SKGNUp)
+
 
