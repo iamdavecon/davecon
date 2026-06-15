@@ -1,10 +1,10 @@
 # /home
 
+[![DaveCon is now.](main.png)](https://iamdavecon.github.io/)
+- [main site](https://iamdavecon.github.io/)
 - [discord aka Davecord](https://discord.gg/BdCQY2533X)
-- [INSTALL MIND ANTIVIRUS](https://iamdavecon.github.io/bb/)
-- [Dave video playlist aka Daveo](https://youtube.com/playlist?list=PL_pqyAOOFqee3YBfCnd7QivPnsgHw53cq&si=p67JWi3JXI8xClyN)
-- [DaveCon Choose your own Daventure](https://iamdavecon.github.io/IamDaveCon.html)
 - [DaveTracker](https://dave-tracker.onrender.com/)
+- [INSTALL MIND ANTIVIRUS](https://iamdavecon.github.io/bb/)
 
 
 ## Release Notes
