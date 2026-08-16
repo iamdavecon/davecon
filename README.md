@@ -3,8 +3,10 @@
 [![DaveCon is now.](main.png)](https://iamdavecon.github.io/)
 - [main site](https://iamdavecon.github.io/)
 - [discord aka Davecord](https://discord.gg/BdCQY2533X)
-- [DaveTracker](https://dave-tracker.onrender.com/)
-- [INSTALL MIND ANTIVIRUS](https://iamdavecon.github.io/bb/)
+
+## Code of conduct
+
+**Don't be an asshole**
 
 ## Release Notes
 
@@ -15,35 +17,42 @@
 - [1.0](https://docs.google.com/document/d/10pknMyp7eMQa5K1S5WkilPujUupOhHGwtNkq9URTMqg)
 - [0.0 (beta)](https://docs.google.com/document/d/1GsItmplrJTlb02CClvNM4Jv8sW6bOXMFimozth7cOLA/edit#bookmark=id.o19r0bhabfy6)
 
+## Badge Art
 
-## Code of conduct
+### DC30 (1.0)
 
-**Don't be an asshole**
+| Front | Back |
+| --- | --- |
+| <img src="DC30/DaveCon1-Front.png" alt="DaveCon 1.0 front" width="400"> | <img src="DC30/DaveCon1-Back.png" alt="DaveCon 1.0 back" width="400"> |
 
-# /FAQ
-```
+### DC31 (2.1)
 
-Q:  Who is Dave?
-A:  You are, Dave.  It has been you, the whole time.
-Ooooh...
+| Front | Back |
+| --- | --- |
+| <img src="DC31/DaveCon2-Front.png" alt="DaveCon 2.1 front" width="400"> | <img src="DC31/DaveCon2-Back.png" alt="DaveCon 2.1 back" width="400"> |
 
-Q:  What is DaveCon?
-A:  Well, you're looking at it, right now, so you tell me
+### DC32 (3.14)
 
-Q:  Where is DaveCon?
-A:  IT'S RIGHT BEHIND YOU!
+| Front | Back |
+| --- | --- |
+| <img src="DC32/DaveCon3-Front.jpg" alt="DaveCon 3.14 front" width="400"> | <img src="DC32/DaveCon3-Back1.jpg" alt="DaveCon 3.14 back" width="400"> |
 
-Q:  How do I find DaveCon?
-A:  DaveCon finds you
+### DC33 (4.2)
 
-Q:  When is DaveCon?
-A:  DaveCon is Now
+| Front | Back |
+| --- | --- |
+| <img src="DC33/DaveCon4-Front.png" alt="DaveCon 4.2 front" width="400"> | <img src="DC33/DaveCon4-Back.png" alt="DaveCon 4.2 back" width="400"> |
 
-Q:  Why is DaveCon?
-A:  Whoa...
+### DC34 (V)
 
-Q:  Is DaveCon canceled?
-A:  Hell no
-```
+| Front | Back |
+| --- | --- |
+| <img src="DC34/DaveCon5-Front.jpg" alt="DaveCon V front" width="400"> | <img src="DC34/DaveCon5-Back.jpg" alt="DaveCon V back" width="400"> |
+
+### DC35 (6.6.6)
+
+| Front | Back |
+| --- | --- |
+| <img src="DC35/DaveCon6-Front.jpg" alt="DC35 badge front" width="400"> | <img src="DC35/DaveCon6-Back.jpg" alt="DC35 badge back" width="400"> |
 
 
